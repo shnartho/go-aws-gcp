@@ -1,2 +1,2 @@
 # go-aws-gcp
-Golang code to handle aws and gcp services
+Golang code to handle aws and gcp services.
