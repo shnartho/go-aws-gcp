@@ -1,7 +1,7 @@
-package main
+package awsDynamoDB
 
 import "fmt"
 
-func main() {
-	fmt.Println("Hello world")
+func Main() {
+	fmt.Println("Hello from dynamoDB")
 }
